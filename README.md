@@ -2,6 +2,11 @@
 
 A simple, open-source Express.js API that provides random facts, quotes, and jokes. Perfect for developers looking to add some fun content to their applications.
 
+### Base URL
+```
+https://api-z2gy.onrender.com/
+```
+
 ## Features
 
 - **Facts**: Get interesting facts with optional limiting
